@@ -1,0 +1,1 @@
+{"version":3,"file":"budget-exceeded.error.js","sourceRoot":"","sources":["../../../src/domain/errors/budget-exceeded.error.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,mBAAmB,CAAC;AAWhD,MAAM,OAAO,mBAAoB,SAAQ,WAAW;IAClD,YAAY,QAAgB,EAAE,KAAa;QACzC,KAAK,CACH,oCAAoC,QAAQ,8BAA8B,KAAK,IAAI,CACpF,CAAC;IACJ,CAAC;CACF"}
